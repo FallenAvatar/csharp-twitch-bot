@@ -1,0 +1,5 @@
+https://sourceforge.net/p/twitchmodbot/source/ci/master/tree/README.txt
+http://twitchmodbot.sourceforge.net/forums/index.php?sid=e0a99f40b180ed69e882d533aa419f85
+http://twitchapps.com/tmi/#access_token=d8s8cvhrc9znrx3j6yv1x2nwpvtnhyy&scope=chat_login
+http://www.irchelp.org/irchelp/rfc/chapter6.html#c6_2
+https://github.com/SupremoRTD/LoyaltyBot/blob/master/lib/irc.js

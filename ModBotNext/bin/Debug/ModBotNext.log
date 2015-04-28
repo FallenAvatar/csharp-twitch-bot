@@ -1,0 +1,33 @@
+[2014-04-30T09:28:33Z] [DEBUG] --> PASS oauth:d8s8cvhrc9znrx3j6yv1x2nwpvtnhyy
+[2014-04-30T09:28:33Z] [DEBUG] --> NICK tjmonk15
+[2014-04-30T09:28:33Z] [DEBUG] --> USER tjmonk15 * * :tjmonk15
+[2014-04-30T09:28:33Z] [DEBUG] <-- :tmi.twitch.tv 001 tjmonk15 :Welcome, GLHF!
+[2014-04-30T09:28:33Z] [DEBUG] <-- :tmi.twitch.tv 002 tjmonk15 :Your host is tmi.twitch.tv
+[2014-04-30T09:28:33Z] [DEBUG] <-- :tmi.twitch.tv 003 tjmonk15 :This server is rather new
+[2014-04-30T09:28:33Z] [DEBUG] <-- :tmi.twitch.tv 004 tjmonk15 :-
+[2014-04-30T09:28:33Z] [DEBUG] <-- :tmi.twitch.tv 375 tjmonk15 :-
+[2014-04-30T09:28:33Z] [DEBUG] <-- :tmi.twitch.tv 372 tjmonk15 :You are in a maze of twisty passages, all alike.
+[2014-04-30T09:28:33Z] [DEBUG] <-- :tmi.twitch.tv 376 tjmonk15 :>
+[2014-04-30T09:28:33Z] [DEBUG] --> JOIN #poshybrid
+[2014-04-30T09:28:34Z] [DEBUG] <-- :tjmonk15!tjmonk15@tjmonk15.tmi.twitch.tv JOIN #poshybrid
+[2014-04-30T09:28:34Z] [DEBUG] <-- :jtv!jtv@jtv.tmi.twitch.tv PRIVMSG tjmonk15 :USERCOLOR tjmonk15 #B22222
+[2014-04-30T09:28:34Z] [DEBUG] <-- :jtv!jtv@jtv.tmi.twitch.tv PRIVMSG tjmonk15 :HISTORYEND poshybrid
+[2014-04-30T09:28:34Z] [DEBUG] <-- :tjmonk15.tmi.twitch.tv 353 tjmonk15 = #poshybrid :sblingfun tjmonk15 iczyg gekados tw_sick poshybrid xxxenic theblueangels demonicd3
+[2014-04-30T09:28:34Z] [DEBUG] <-- :tjmonk15.tmi.twitch.tv 366 tjmonk15 #poshybrid :End of /NAMES list
+[2014-04-30T09:28:34Z] [DEBUG] <-- :jtv MODE #poshybrid +o poshybrid
+[2014-04-30T09:28:36Z] [DEBUG] <-- :sblingfun!sblingfun@sblingfun.tmi.twitch.tv PRIVMSG #poshybrid :watching me get owned is the best
+[2014-04-30T09:28:41Z] [DEBUG] --> PRIVMSG #poshybrid :derka
+[2014-04-30T09:28:41Z] [DEBUG] <-- :jtv!jtv@jtv.tmi.twitch.tv PRIVMSG tjmonk15 :You are permanently banned from talking in poshybrid.
+[2014-04-30T09:28:47Z] [DEBUG] <-- :sblingfun!sblingfun@sblingfun.tmi.twitch.tv PRIVMSG #poshybrid :good *** lol
+[2014-04-30T09:30:25Z] [DEBUG] <-- :poshybrid!poshybrid@poshybrid.tmi.twitch.tv PRIVMSG #poshybrid :lol
+[2014-04-30T09:30:31Z] [DEBUG] <-- :poshybrid!poshybrid@poshybrid.tmi.twitch.tv PRIVMSG #poshybrid :yes xsplit
+[2014-04-30T09:30:35Z] [DEBUG] <-- :poshybrid!poshybrid@poshybrid.tmi.twitch.tv PRIVMSG #poshybrid :i hear obs is very good
+[2014-04-30T09:30:39Z] [DEBUG] <-- :sblingfun!sblingfun@sblingfun.tmi.twitch.tv PRIVMSG #poshybrid :yeah obs is a lot better
+[2014-04-30T09:30:46Z] [DEBUG] <-- :poshybrid!poshybrid@poshybrid.tmi.twitch.tv PRIVMSG #poshybrid :running a OC 2 1/2 year old ati card too
+[2014-04-30T09:30:50Z] [DEBUG] <-- :poshybrid!poshybrid@poshybrid.tmi.twitch.tv PRIVMSG #poshybrid :rest of rig is a beast
+[2014-04-30T09:31:02Z] [DEBUG] <-- :poshybrid!poshybrid@poshybrid.tmi.twitch.tv PRIVMSG #poshybrid :surprised i can stream this quailty
+[2014-04-30T09:31:02Z] [DEBUG] <-- :gekados!gekados@gekados.tmi.twitch.tv PART #poshybrid
+[2014-04-30T09:31:18Z] [DEBUG] <-- :iczyg!iczyg@iczyg.tmi.twitch.tv PART #poshybrid
+[2014-04-30T09:33:10Z] [DEBUG] <-- PING :tmi.twitch.tv
+[2014-04-30T09:33:10Z] [DEBUG] --> PONG tjmonk15  :tmi.twitch.tv
+[2014-04-30T09:34:37Z] [DEBUG] --> QUIT
